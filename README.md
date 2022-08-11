@@ -21,6 +21,8 @@ Topics you should know in System Desingn
 
 9. [Estimation and Planning, Performance](https://medium.com/coders-mojo/part-9-complete-system-design-series-df975c85ec51)
 
+10.[Map Reduce, Patterns and Microservices](https://medium.com/coders-mojo/most-popular-system-design-questions-mega-compilation-45218129fe26)
+
 ------------------------------
 
 **Part 1 of System Design Made Easy Series**
