@@ -3,43 +3,43 @@ This repository contains everything you need to become proficient in System Desi
 
 Topics you should know in System Desingn 
 
-System design basics
+1. System design basics
 
-Horizontal and vertical scaling
+2. Horizontal and vertical scaling
 
-Load balancing
+3. Load balancing
 
-Message queues
+4. Message queues
 
-High level design and low level design
+5. High level design and low level design
 
-Consistent Hashing
+6. Consistent Hashing
 
-Monolithic and Microservices architecture
+7. Monolithic and Microservices architecture
 
-Caching
+8. Caching
 
-Indexing
+9. Indexing
 
-Proxies
+10. Proxies
 
-Networking
+11. Networking
 
-How Browsers work
+12. How Browsers work
 
-Content Network Delivery ( CDN)
+13. Content Network Delivery ( CDN)
 
-Database Sharding
+14. Database Sharding
 
-CAP Theorem
+15. CAP Theorem
 
-Database schema Design
+16. Database schema Design
 
-Concurrency
+17. Concurrency
 
-API
+18. API
 
-Components + OOP + Abstraction
+19. Components + OOP + Abstraction
 
 ------------------------------
 
@@ -49,7 +49,15 @@ In the part 1, we covered what and why of System Design and the important topics
 
 Architecture + Data + Applications
 
-Learn what is system design and why it’s important, how they work and how to use them in your system design interviews in part 1( link below) —
+[Learn what is system design and why it’s important, how they work and how to use them in your system design interviews in part 1 ](https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc)
+
+
+------------------------------
+
+
+
+
+
 
 
 
