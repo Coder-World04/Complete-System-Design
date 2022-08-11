@@ -1,7 +1,7 @@
 # Complete-System-Design
 This repository contains everything you need to become proficient in System Design
 
-Topics you should know in System Desingn 
+Topics you should know in System Design 
 
 1. [System design basics](https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc)
 
