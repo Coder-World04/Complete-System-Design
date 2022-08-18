@@ -1,4 +1,4 @@
-# Complete-System-Design
+# Complete System Design
 This repository contains everything you need to become proficient in System Design
 
 Topics you should know in System Design 
