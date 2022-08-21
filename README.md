@@ -253,3 +253,46 @@ Popular Questions : [Link](https://medium.com/coders-mojo/most-popular-system-de
 
 [210 Machine Learning Projects](https://medium.datadriveninvestor.com/210-machine-learning-projects-with-source-code-that-you-can-build-today-721b035649e0?sk=da5f593572a0261a6314afad99a0356c)
 
+-------
+
+
+# 6 Highly Recommended Data Science and Machine Learning Courses that you MUST take ( with certificate) - 
+
+1. Complete Data Scientist : https://bit.ly/3wiIo8u
+
+Learn to run data pipelines, design experiments, build recommendation systems, and deploy solutions to the cloud.
+
+----
+
+2. Complete Data Engineering : https://bit.ly/3A9oVs5
+
+Learn to design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets
+
+-----
+
+3. Complete Machine Learning Engineer : https://bit.ly/3Tir8ub
+
+Learn advanced machine learning techniques and algorithms - including how to package and deploy your models to a production environment.
+
+-----
+
+4. Complete Data Product Manager : https://bit.ly/3QGUtwi
+
+Leverage data to build products that deliver the right experiences, to the right users, at the right time. Lead the development of data-driven products that position businesses to win in their market.
+
+------
+
+5. Complete Natural Language Processing : https://bit.ly/3T7J8qY
+
+Build models on real data, and get hands-on experience with sentiment analysis, machine translation, and more.
+
+------
+
+6. Complete Deep Learning: https://bit.ly/3T5ppIo
+
+Learn to implement Neural Networks using the deep learning framework PyTorch
+
+------
+
+
+
