@@ -1,6 +1,8 @@
 # Complete System Design
 This repository contains everything you need to become proficient in System Design.
 
+[Complete System Design Case Studies](https://medium.com/coders-mojo/day-1-of-system-design-case-studies-series-b3c3fecae079?sk=ee7333918f135e06eb3a9b9434d35696) 
+
 For Data Structures and Algorithms, start here : [Day 1 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
 
 Topics you should know in System Design -
