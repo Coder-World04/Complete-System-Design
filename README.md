@@ -45,7 +45,7 @@ Architecture + Data + Applications
 
 **Part 2 of System Design Made Easy Series**
 
-In the part 2, we covered —
+In the part 2, we covered—
 
 1. System design basics
 
