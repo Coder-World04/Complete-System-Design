@@ -84,7 +84,7 @@ In the part 4, we covered
 
 1. High level design and Low level design
 
-2. Monolithic and microservices architecture and which one to choose and when?
+2. Monolithic and microservices architecture and which one to choose and when ?
 
 3. Consistent Hashing
 
