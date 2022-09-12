@@ -35,6 +35,19 @@ Topics you should know in System Design -
 # System Design Case Studies
 
 [Design Instagram](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
+Coverage( in depth) -
+
+What is Instagram
+
+Important Features
+
+Scaling Requirements
+
+Data Model — ER requirements
+
+High Level Design
+
+Complete Detailed Design
 
 
 
