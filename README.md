@@ -72,7 +72,23 @@ Complete Detailed Design
 
 -------------------
 
+[Design Twitter](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e)
 
+Coverage( in depth) -
+
+What is Instagram
+
+Important Features
+
+Scaling Requirements
+
+Data Model — ER requirements
+
+High Level Design
+
+API Design
+
+Complete Detailed Design
 
 
 
