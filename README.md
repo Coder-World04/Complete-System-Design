@@ -94,6 +94,27 @@ Complete Detailed Design
 
 ------------------------------
 
+[Design URL Shortner](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da)
+
+Coverage( in depth) -
+
+What is URL Shortener
+
+Important Features
+
+Scaling Requirements
+
+Data Model — ER requirements
+
+High Level Design
+
+API Design
+
+Complete Detailed Design
+
+-------------------------------
+
+
 **Part 1 of System Design Made Easy Series**
 
 In the part 1, we covered what and why of System Design and the important topics that you should know. System Design is mostly an open ended concept and most of the questions can be answered in different degrees and aptitudes. In layman’s language, system design is about —
