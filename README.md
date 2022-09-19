@@ -162,7 +162,7 @@ We also covered the tradeoffs of the different techniques.
 
 **Part 4 of System Design Made Easy Series**
 
-In the part 4, we covered
+In the part 4, we covered-
 
 1. High level design and Low level design
 
