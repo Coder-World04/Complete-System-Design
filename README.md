@@ -170,7 +170,7 @@ In the part 3, we covered system design’s most important concepts —
 
 2. Message Queues
 
-Load balancing is a technique of distributing tasks over a set of servers/machines to improve the performance, throughput, high availability, redundancy and reliability of the system. Not just it enables horizontal scaling but also dynamic resizing/scaling.
+Load balancing is a technique of distributing tasks over a set of servers/machines to improve the performance,throughput, high availability, redundancy and reliability of the system. Not just it enables horizontal scaling but also dynamic resizing/scaling.
 
 Message queues are nothing bit temporary buffers placed between users/applications and servers to store the message requests and process them in FIFO order asynchronously until the requests/messages are delivered to the desired server.
 
