@@ -370,7 +370,7 @@ Popular Questions : [Link](https://medium.com/coders-mojo/most-popular-system-de
 
 1. Complete Data Scientist : https://bit.ly/3wiIo8u
 
-Learn to run data pipelines, design experiments, build recommendation systems, and deploy solutions to the cloud.
+Learn to run data pipelines, design experiments , build recommendation systems, and deploy solutions to the cloud.
 
 ----
 
