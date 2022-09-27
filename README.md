@@ -196,7 +196,7 @@ Monolithic architecture — consists of single code base with multiple modules a
 
 Consistent hashing is a technique to divide keys/data between multiple servers/machines using a hash function ( key — value).
 
-[Learn why high level design and low level design, Monolith and microservices architecture and consistent hashing are important, how they work and how to use them in your system design interviews in part 4](https://medium.com/coders-mojo/part-4-complete-system-design-series-138bc9fbcfc0)
+[Learn why high level design and low level design,  Monolith and microservices architecture and consistent hashing are important, how they work and how to use them in your system design interviews in part 4](https://medium.com/coders-mojo/part-4-complete-system-design-series-138bc9fbcfc0)
 
 
 ------------------------------
