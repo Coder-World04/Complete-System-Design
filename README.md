@@ -190,7 +190,7 @@ In the part 4, we covered-
 
 3. Consistent Hashing
 
-High level Design (HLD) describes the overall architecture of the application and covers functionality of each module of the system very briefly. LLD details the functional logic of the each module in the system.
+High level Design(HLD) describes the overall architecture of the application and covers functionality of each module of the system very briefly. LLD details the functional logic of the each module in the system.
 
 Monolithic architecture — consists of single code base with multiple modules and it’s easier and faster to deploy. Microservices architecture — consists of individual service units with each service being responsible for exactly one functionality. It’s relatively complex and time taking to deploy.
 
