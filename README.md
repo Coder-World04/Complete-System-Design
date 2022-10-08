@@ -134,6 +134,25 @@ Complete Detailed Design
 
 -------------------------------
 
+[Design Youtube](https://medium.com/coders-mojo/day-10-of-system-design-case-studies-series-design-youtube-58bc4ad09c4b?sk=18560ffcc3d7174566d38d60c99d4914)
+
+Coverage( in depth) -
+
+What is Instagram
+
+Important Features
+
+Scaling Requirements
+
+Data Model — ER requirements
+
+High Level Design
+
+API Design
+
+Complete Detailed Design
+
+-------------------------------
 
 **Part 1 of System Design Made Easy Series**
 
