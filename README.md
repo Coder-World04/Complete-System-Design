@@ -116,7 +116,7 @@ Complete Detailed Design
 
 [Design Dropbox](https://medium.com/coders-mojo/day-9-of-system-design-case-studies-series-design-dropbox-ead523ccccfa?sk=03b3b4ea3633051f7a9a7d379b1066b8)
 
-Coverage( in depth) -
+Coverage( in depth)-
 
 What is Dropbox
 
