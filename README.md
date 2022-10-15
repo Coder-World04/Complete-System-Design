@@ -62,7 +62,7 @@ Important Features
 
 Scaling Requirements
 
-Data Model — ER requirements
+Data Model —ER requirements
 
 High Level Design
 
