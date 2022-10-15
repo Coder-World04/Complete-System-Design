@@ -54,7 +54,7 @@ Complete Detailed Design
 
 [Design Messenger App](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a?sk=4a53b122e8f02836c17fa35622aa0309)
 
-Coverage( in depth) -
+Coverage( in depth)-
 
 What is Instagram
 
@@ -74,7 +74,7 @@ Complete Detailed Design
 
 [Design Twitter](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e)
 
-Coverage( in depth) -
+Coverage( in depth)-
 
 What is Instagram
 
