@@ -92,7 +92,7 @@ Complete Detailed Design
 
 
 
-------------------------------
+-------------------------------
 
 [Design URL Shortner](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da)
 
