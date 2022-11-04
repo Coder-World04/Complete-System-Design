@@ -152,7 +152,7 @@ API Design
 
 Complete Detailed Design
 
--------------------------------
+--------------------------------
 
 **Part 1 of System Design Made Easy Series**
 
