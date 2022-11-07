@@ -50,7 +50,7 @@ High Level Design
 
 Complete Detailed Design
 
------------------------
+------------------------
 
 [Design Messenger App](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a?sk=4a53b122e8f02836c17fa35622aa0309)
 
