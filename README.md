@@ -1,5 +1,5 @@
 # Complete System Design
-This repository contains everything you need to become proficient in System Design .
+This repository contains everything you need to become proficient in System Design.
 
 [System Design Template](https://medium.com/coders-mojo/day-3-of-system-design-case-studies-series-875df4b766b9?sk=1133c9135f849f4497400a6b9caf5c2e)
 
