@@ -7,6 +7,8 @@ This repository contains everything you need to become proficient in System Desi
 
 [How to solve any System Design Question ( approach that you should take)](https://medium.com/coders-mojo/day-2-of-system-design-case-studies-series-ccd8899c6e6b?sk=9e95d3979ac4f995dec397c49ab8e05d)
 
+[ML System Design Case Studies Series](https://bit.ly/3i5EDiH)
+
 For Data Structures and Algorithms, start here : [Day 1 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
 
 Topics you should know in System Design --
@@ -151,6 +153,61 @@ High Level Design
 API Design
 
 Complete Detailed Design
+
+--------------------------------
+
+[Design Tinder ](https://bit.ly/3Mcyj3X)
+
+[Design Google Drive ](https://bit.ly/3uXdQZ7)
+
+[Design Messenger App ](https://bit.ly/3DoAAXi)
+
+[Design Instagram ](https://bit.ly/3BFeHlh)
+
+[Design Twitter ](https://bit.ly/3qIG9Ih)
+
+[Design Ticketmaster](https://bit.ly/3HKLbOg)
+
+[Design Quora ](https://bit.ly/3FeD9dL)
+
+[Design Flipkart](https://bit.ly/3iS1a2P)
+
+[Design Flickr](https://bit.ly/3uCGkXJ)
+
+[Design TikTok](https://bit.ly/3UUlKxP)
+
+[Design Netflix ](https://bit.ly/3GrAUG1)
+
+[Design Foursquare](https://bit.ly/3VMYh1O)
+
+[Design Uber ](https://bit.ly/3fyvnlT)
+
+[Design Youtube ](https://bit.ly/3dFyvvy)
+
+[Design Reddit ](https://bit.ly/3OgGJrL)
+
+[Design Facebook’s Newsfeed ](https://bit.ly/3RldaW7)
+
+[Design Amazon Prime Video ](https://bit.ly/3hVpWP4)
+
+[Design Web Crawler ](https://bit.ly/3DPZTBB)
+
+[Design API Rate Limiter ](https://bit.ly/3BIVuh7)
+
+[Design Dropbox ](https://bit.ly/3SnhncU)
+
+[Design Yelp ](https://bit.ly/3E7IgO5)
+
+[Design Whatspp ](https://bit.ly/3M2GOhP)
+
+[Design URL shortener ](https://bit.ly/3xP078x)
+
+[Design Bookmyshow ](https://bit.ly/3FDFMWF)
+
+
+
+
+
 
 --------------------------------
 
