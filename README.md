@@ -1,5 +1,7 @@
-# Complete System Design
+# Complete System Design with Implemented Case Studies 
+
 This repository contains everything you need to become proficient in System Design .
+
 
 [System Design Most Important Terms](https://medium.com/coders-mojo/day-19-of-system-design-series-system-design-important-terms-45002fbbb789?sk=dab9718bca1b3676f093a759c89dea2c)
 
