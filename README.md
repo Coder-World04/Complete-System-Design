@@ -1,6 +1,8 @@
 # Complete System Design
 This repository contains everything you need to become proficient in System Design .
 
+[System Design Most Important Terms](https://medium.com/coders-mojo/day-19-of-system-design-series-system-design-important-terms-45002fbbb789?sk=dab9718bca1b3676f093a759c89dea2c)
+
 [System Design Template](https://medium.com/coders-mojo/day-3-of-system-design-case-studies-series-875df4b766b9?sk=1133c9135f849f4497400a6b9caf5c2e)
 
 [Complete System Design Case Studies ](https://medium.com/coders-mojo/day-1-of-system-design-case-studies-series-b3c3fecae079?sk=ee7333918f135e06eb3a9b9434d35696) 
