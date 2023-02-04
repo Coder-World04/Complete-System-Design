@@ -210,6 +210,7 @@ Complete Detailed Design
 
 [Design Linkedin](https://medium.com/coders-mojo/day-36-of-system-design-case-studies-series-design-linkedin-961b7b6bd5cb?sk=1628f27339a8f80c34f0661b68ac0cee)
 
+[Design Telegram](https://medium.com/coders-mojo/day-35-of-system-design-case-studies-series-design-telegram-e9c224cc3a1a?sk=60674d6c02df1f370624ebb83034ee3d)
 
 
 
