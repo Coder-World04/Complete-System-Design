@@ -208,7 +208,7 @@ Complete Detailed Design
 
 [Design Bookmyshow ](https://bit.ly/3FDFMWF)
 
-
+[Design Linkedin](https://medium.com/coders-mojo/day-36-of-system-design-case-studies-series-design-linkedin-961b7b6bd5cb?sk=1628f27339a8f80c34f0661b68ac0cee)
 
 
 
