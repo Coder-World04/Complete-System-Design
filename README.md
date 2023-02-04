@@ -212,6 +212,21 @@ Complete Detailed Design
 
 [Design Telegram](https://medium.com/coders-mojo/day-35-of-system-design-case-studies-series-design-telegram-e9c224cc3a1a?sk=60674d6c02df1f370624ebb83034ee3d)
 
+[Design Snapchat](https://medium.com/coders-mojo/day-34-of-system-design-case-studies-series-design-snapchat-91e8eaba38cf?sk=73e7276acad635bc84110d705c39653c)
+
+[Design One Drive](https://medium.com/coders-mojo/day-33-of-system-design-case-studies-series-design-one-drive-d2e98a80f9a7?sk=294027ae3251b87aa5f7edba87d248f2)
+
+[Design BookmyShow](https://medium.com/coders-mojo/day-32-of-system-design-case-studies-series-design-bookmyshow-8470813a3bff?sk=800521e98d1a63cbaf07944040e0393f)
+
+[Design Google Maps](https://medium.com/coders-mojo/day-31-of-system-design-case-studies-series-design-google-maps-545feb730ed3?sk=9fd2a81b42fc7927f0c8be08a27f3c49)
+
+[Design Quora](https://medium.com/coders-mojo/day-29-of-system-design-case-studies-series-design-quora-fcd2ff0c2aab?sk=cf3ca6447b8295aeb912ea1c6a8ce666)
+
+[Design Foursquare](https://medium.com/coders-mojo/day-28-of-system-design-case-studies-series-design-foursquare-6cfa5a3c00bf?sk=a78fe7fac24bfa0045a870c7f7cd47ff)
+
+[Design Tiny URL](https://medium.com/coders-mojo/day-26-of-system-design-case-studies-series-design-tiny-url-4850ed7922e?sk=732181ae6072053c6644d5fb2b57e80e)
+
+[Design Flipkart](https://medium.com/coders-mojo/day-24-of-system-design-case-studies-series-design-flipkart-42af832b9794?sk=1deba4c6880a18e363bbcb2cc5aa0f9c)
 
 
 --------------------------------
