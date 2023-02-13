@@ -1,4 +1,4 @@
-# Complete System Design with Implemented Case Studies 
+# Complete System Design with Implemented Case Studies and Code
 
 This repository contains everything you need to become proficient in System Design.
 
