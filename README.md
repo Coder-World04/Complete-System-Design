@@ -15,7 +15,7 @@ This repository contains everything you need to become proficient in System Desi
 
 For Data Structures and Algorithms, start here : [Day 1 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
 
-Topics you should know in System Design --
+Topics you should know in System Design -
 
 1. [System design basics](https://medium.com/coders-mojo/complete-system-design-series-part-1-45bf9c8654bc)
 
