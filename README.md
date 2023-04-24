@@ -229,7 +229,7 @@ Complete Detailed Design
 [Design Flipkart](https://medium.com/coders-mojo/day-24-of-system-design-case-studies-series-design-flipkart-42af832b9794?sk=1deba4c6880a18e363bbcb2cc5aa0f9c)
 
 
---------------------------------
+---------------------------------
 
 **Part 1 of System Design Made Easy Series**
 
