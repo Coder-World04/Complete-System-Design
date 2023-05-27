@@ -40,125 +40,63 @@ Topics you should know in System Design ---
 
 # System Design Case Studies
 
+| Case Study Name | Link to the Case Study |
+| --- | --- |
+| Design Instagram | [Link](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813) |
+| Design Messenger App | [Link](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a?sk=4a53b122e8f02836c17fa35622aa0309) |
+| Design Twitter | [Link](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e) |
+| Design URL Shortner | [Link](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da) |
+| Design Dropbox | [Link](https://medium.com/coders-mojo/day-9-of-system-design-case-studies-series-design-dropbox-ead523ccccfa?sk=03b3b4ea3633051f7a9a7d379b1066b8) |
+| Design Youtube | [Link](https://medium.com/coders-mojo/day-10-of-system-design-case-studies-series-design-youtube-58bc4ad09c4b?sk=18560ffcc3d7174566d38d60c99d4914) |
+| Design Tinder | [Link](https://bit.ly/3Mcyj3X) |
+| Design Google Drive | [Link](https://bit.ly/3uXdQZ7) |
+| Design Messenger App | [Link](https://bit.ly/3DoAAXi) |
+| Design Instagram | [Link](https://bit.ly/3BFeHlh) |
+| Design Twitter | [Link](https://bit.ly/3qIG9Ih) |
+| Design Ticketmaster | [Link](https://bit.ly/3HKLbOg) |
+| Design Quora | [Link](https://bit.ly/3FeD9dL) |
+| Design Flipkart | [Link](https://bit.ly/3iS1a2P) |
+| Design Flickr | [Link](https://bit.ly/3uCGkXJ) |
+| Design TikTok | [Link](https://bit.ly/3UUlKxP) |
+| Design Netflix | [Link](https://bit.ly/3GrAUG1) |
+| Design Foursquare | [Link](https://bit.ly/3VMYh1O) |
+| Design Uber | [Link](https://bit.ly/3fyvnlT) |
+| Design Youtube | [Link](https://bit.ly/3dFyvvy) |
+| Design Reddit | [Link](https://bit.ly/3OgGJrL) |
+| Design Facebook’s Newsfeed | [Link](https://bit.ly/3RldaW7) |
+| Design Amazon Prime Video | [Link](https://bit.ly/3hVpWP4) |
+| Design Web Crawler | [Link](https://bit.ly/3DPZTBB)
+| Design Web Crawler | [Link](https://bit.ly/3DPZTBB) |
+| Design API Rate Limiter | [Link](https://bit.ly/3BIVuh7) |
+| Design Dropbox | [Link](https://bit.ly/3SnhncU) |
+| Design Yelp | [Link](https://bit.ly/3E7IgO5) |
+| Design Whatsapp | [Link](https://bit.ly/3M2GOhP) |
+| Design URL Shortener | [Link](https://bit.ly/3xP078x) |
+| Design Bookmyshow | [Link](https://bit.ly/3FDFMWF) |
+| Design Linkedin | [Link](https://medium.com/coders-mojo/day-36-of-system-design-case-studies-series-design-linkedin-961b7b6bd5cb?sk=1628f27339a8f80c34f0661b68ac0cee) |
+| Design Telegram | [Link](https://medium.com/coders-mojo/day-35-of-system-design-case-studies-series-design-telegram-e9c224cc3a1a?sk=60674d6c02df1f370624ebb83034ee3d) |
+| Design Snapchat | [Link](https://medium.com/coders-mojo/day-34-of-system-design-case-studies-series-design-snapchat-91e8eaba38cf?sk=73e7276acad635bc84110d705c39653c) |
+| Design One Drive | [Link](https://medium.com/coders-mojo/day-33-of-system-design-case-studies-series-design-one-drive-d2e98a80f9a7?sk=294027ae3251b87aa5f7edba87d248f2) |
+| Design BookmyShow | [Link](https://medium.com/coders-mojo/day-32-of-system-design-case-studies-series-design-bookmyshow-8470813a3bff?sk=800521e98d1a63cbaf07944040e0393f) |
+| Design Google Maps | [Link](https://medium.com/coders-mojo/day-31-of-system-design-case-studies-series-design-google-maps-545feb730ed3?sk=9fd2a81b42fc7927f0c8be08a27f3c49) |
+| Design Quora | [Link](https://medium.com/coders-mojo/day-29-of-system-design-case-studies-series-design-quora-fcd2ff0c2aab?sk=cf3ca6447b8295aeb912ea1c6a8ce666) |
+| Design Foursquare | [Link](https://medium.com/coders-mojo/day-28-of-system-design-case-studies-series-design-foursquare-6cfa5a3c00bf?sk=a78fe7fac24bfa0045a870c7f7cd47ff) |
+| Design Tiny URL | [Link](https://medium.com/coders-mojo/day-26-of-system-design-case-studies-series-design-tiny-url-4850ed7922e?sk=732181ae6072053c6644d5fb2b57e80e) |
+| Design Flipkart | [Link](https://medium.com/coders-mojo/day-24-of-system-design-case-studies-series-design-flipkart-42af832b9794?sk=1deba4)|
+
+-------------------------------
+
 [Design Instagram](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
-
-Coverage( in depth) -
-
-[What is Instagram](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
-
-[Important Features](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
-
-[Scaling Requirements](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
-
-[Data Model — ER requirements](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
-
-[High Level Design](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
-
-[Complete Detailed Design](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813)
-
---------------------------
 
 [Design Messenger App](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a?sk=4a53b122e8f02836c17fa35622aa0309)
 
-Coverage( in depth)-
-
-[What is Messenger App](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a?sk=4a53b122e8f02836c17fa35622aa0309)
-
-Important Features
-
-Scaling Requirements
-
-Data Model — ER requirements
-
-High Level Design
-
-API Design
-
-Complete Detailed Design
-
------------------------
-
 [Design Twitter](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e)
-
-Coverage( in depth)-
-
-[What is Twitter](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e)
-
-Important Features
-
-Scaling Requirements
-
-Data Model — ER requirements
-
-High Level Design
-
-API Design
-
-Complete Detailed Design
-
-
-
--------------------------------
 
 [Design URL Shortner](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da)
 
-Coverage( in depth) -
-
-[What is URL Shortener](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da)
-
-Important Features
-
-Scaling Requirements
-
-Data Model — ER requirements
-
-High Level Design
-
-API Design
-
-Complete Detailed Design
-
--------------------------------
-
 [Design Dropbox](https://medium.com/coders-mojo/day-9-of-system-design-case-studies-series-design-dropbox-ead523ccccfa?sk=03b3b4ea3633051f7a9a7d379b1066b8)
 
-Coverage( in depth)-
-
-[What is Dropbox](https://medium.com/coders-mojo/day-9-of-system-design-case-studies-series-design-dropbox-ead523ccccfa?sk=03b3b4ea3633051f7a9a7d379b1066b8)
-
-Important Features
-
-Scaling Requirements
-
-Data Model — ER requirements
-
-High Level Design
-
-API Design
-
-Complete Detailed Design
-
--------------------------------
-
 [Design Youtube](https://medium.com/coders-mojo/day-10-of-system-design-case-studies-series-design-youtube-58bc4ad09c4b?sk=18560ffcc3d7174566d38d60c99d4914)
-
-Coverage( in depth) -
-
-[What is Youtube](https://medium.com/coders-mojo/day-10-of-system-design-case-studies-series-design-youtube-58bc4ad09c4b?sk=18560ffcc3d7174566d38d60c99d4914)
-
-Important Features
-
-Scaling Requirements
-
-Data Model — ER requirements
-
-High Level Design
-
-API Design
-
-Complete Detailed Design
-
---------------------------------
 
 [Design Tinder ](https://bit.ly/3Mcyj3X)
 
