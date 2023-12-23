@@ -2,6 +2,9 @@
 
 This repository contains everything you need to become proficient in System Design.
 
+[Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Mega Launch - 200+ System Design Case Studies](https://open.substack.com/pub/naina0405/p/mega-launch-200-new-system-design?r=14q3sp&utm_campaign=post&utm_medium=web)
 
 [System Design Most Important Terms](https://medium.com/coders-mojo/day-19-of-system-design-series-system-design-important-terms-45002fbbb789?sk=dab9718bca1b3676f093a759c89dea2c)
 
