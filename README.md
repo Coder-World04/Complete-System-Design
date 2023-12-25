@@ -48,7 +48,7 @@ Topics you should know in System Design ---
 | Design Instagram | [Link](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c?sk=38e68a213058e169e71754e00c501813) |
 | Design Messenger App | [Link](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a?sk=4a53b122e8f02836c17fa35622aa0309) |
 | Design Twitter | [Link](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e) |
-| Design URL Shortner | [Link](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da) |
+| Design URL Shortener | [Link](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da) |
 | Design Dropbox | [Link](https://medium.com/coders-mojo/day-9-of-system-design-case-studies-series-design-dropbox-ead523ccccfa?sk=03b3b4ea3633051f7a9a7d379b1066b8) |
 | Design Youtube | [Link](https://medium.com/coders-mojo/day-10-of-system-design-case-studies-series-design-youtube-58bc4ad09c4b?sk=18560ffcc3d7174566d38d60c99d4914) |
 | Design Tinder | [Link](https://bit.ly/3Mcyj3X) |
@@ -95,7 +95,7 @@ Topics you should know in System Design ---
 
 [Design Twitter](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c?sk=cdfc23d38edd5f48dc30efdcc0801c3e)
 
-[Design URL Shortner](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da)
+[Design URL Shortener](https://medium.com/coders-mojo/day-8-of-system-design-case-studies-series-design-url-shortener-91c812a08e0b?sk=5e20d426c91ebaacfe43031bc43642da)
 
 [Design Dropbox](https://medium.com/coders-mojo/day-9-of-system-design-case-studies-series-design-dropbox-ead523ccccfa?sk=03b3b4ea3633051f7a9a7d379b1066b8)
 
