@@ -2,6 +2,8 @@
 
 This repository contains everything you need to become proficient in System Design .
 
+![Instagram Design](https://github.com/Coder-World04/Complete-System-Design/assets/104568275/8b0172be-e6f4-47d6-a6c6-c25054692e0e)
+
 [Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
 
 [Mega Launch - 200+ System Design Case Studies](https://open.substack.com/pub/naina0405/p/mega-launch-200-new-system-design?r=14q3sp&utm_campaign=post&utm_medium=web)
