@@ -1,6 +1,6 @@
 # Complete System Design with Implemented Case Studies and Code
 
-This repository contains everything you need to become proficient in System Design .
+This repository contains everything you need to become proficient in System Design.
 
 ![Instagram Design](https://github.com/Coder-World04/Complete-System-Design/assets/104568275/8b0172be-e6f4-47d6-a6c6-c25054692e0e)
 
