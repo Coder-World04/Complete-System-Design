@@ -20,6 +20,28 @@ Youtube for all the projects and tech interview resources - [Ignito Youtube Chan
 
 [ML System Design Case Studies Series](https://bit.ly/3i5EDiH)
 
+All tech system design case studies pulse - 
+
+[How Lyft Handles 2x Traffic Spikes during Peak Hours with Auto scaling Infrastructure](https://open.substack.com/pub/naina0405/p/system-design-tech-case-study-pulse-1b4?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[8+ Billion Daily Views: How Facebook's Live Video Ranking Algorithm Processes Daily Views Using Storm and Memcache](https://open.substack.com/pub/naina0405/p/system-design-tech-case-study-pulse-732?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[500+ Million Users Daily : The Tech Behind Instagram Stories..](https://open.substack.com/pub/naina0405/p/system-design-tech-case-study-pulse-f79?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[The Billion-Dollar Question - What's My ETA? How Uber Calculates ETA](https://open.substack.com/pub/naina0405/p/friday-engineering-bytes-the-billion?r=14q3sp&utm_campaign=post&utm_medium=web) - 
+
+[What happens Once You Press Play button on Netflix](https://open.substack.com/pub/naina0405/p/saturday-engineering-bytes-what-happens?r=14q3sp&utm_campaign=post&utm_medium=web) 
+
+[How Netflix handles millions of memberships efficiently?](https://open.substack.com/pub/naina0405/p/wednesday-bytes-how-netflix-handles?r=14q3sp&utm_campaign=post&utm_medium=web) 
+
+[Impressive Tech Behind YouTube's Scaling to 3 Billion Users: Inside Vitess Database Clustering](https://open.substack.com/pub/naina0405/p/tuesday-engineering-bytes-impressive?r=14q3sp&utm_campaign=post&utm_medium=web) 
+
+[How Microservices Work?](https://open.substack.com/pub/naina0405/p/wednesday-bytes-how-microservices?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[How Distributed Message Queues Work?](https://naina0405.substack.com/p/sunday-engineering-bytes-how-distributed) 
+
+[How to Efficiently Build Scalable Machine Learning Pipelines](https://open.substack.com/pub/naina0405/p/sunday-bytes-how-to-efficiently-build-186?r=14q3sp&utm_campaign=post&utm_medium=web) 
+
 For Data Structures and Algorithms, start here : [Day 1 of 30 days of Data Structures and Algorithms and System Design Simplified : DSA and System Design made Easy](https://medium.com/coders-mojo/day-1-of-30-days-of-data-structures-and-algorithms-and-system-design-simplified-dsa-and-system-965e860ec677?sk=aa49bdbc46a72f600cb51774f0aea6b6)
 
 Topics you should know in System Design ---
